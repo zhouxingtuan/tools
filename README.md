@@ -3,7 +3,7 @@ python tools
 
 # excel_to_lua.py
 首先需要安装xlrd的python插件，可以自行百度下载安装。
-使用方式
+可以使用qiyu_drop.xlsx文件进行测试，格式如这个文件所示；使用方法
 python excel_to_lua.py --your file name--
 
 # loop_export_excel.py
